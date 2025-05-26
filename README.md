@@ -1,8 +1,3 @@
-Here's your customized `README.md` file for the **CampusConnect+** project on GitHub, styled exactly like your example:
-
----
-
-```markdown
 # 📱 CampusConnect+ – Campus Events Made Simple
 
 <p align="center">
@@ -104,8 +99,8 @@ EventEmitter.js
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/CampusConnectPlus.git
-cd CampusConnectPlus
+git clone https://github.com/dilzaibofficial/Campus-Connect-Plus.git
+cd Campus-Connect-Plus
 ````
 
 ### 2. Install Dependencies
@@ -148,7 +143,3 @@ Scan the QR code in Expo Go or run on an emulator.
 ---
 
 👨‍💻 **Dil Zaib** | Passionate Full Stack Developer | [GitHub](https://github.com/dilzaibofficial)
-
-```
-
----
