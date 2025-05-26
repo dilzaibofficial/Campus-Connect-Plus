@@ -10,7 +10,7 @@
 
 Below is a short preview video demonstrating the app:
 
-🎥 **[Watch the Demo](Preview/CampusConnectPlus.mp4)**  
+🎥 **[Watch the Demo](Preview/CampusConnectPlus.gif)**  
 > *(You can download and open the `.mp4` from the Preview folder for a quick look at the app.)*
 
 ---
