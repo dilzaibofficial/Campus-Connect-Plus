@@ -99,8 +99,8 @@ EventEmitter.js
 ### 1. Clone the Repository
 
 ```sh
-git clone https://github.com/yourusername/CampusConnectPlus.git
-cd CampusConnectPlus
+git clone https://github.com/dilzaibofficial/Campus-Connect-Plus.git
+cd Campus-Connect-Plus
 ````
 
 ### 2. Install Dependencies
@@ -143,7 +143,3 @@ Scan the QR code in Expo Go or run on an emulator.
 ---
 
 👨‍💻 **Dil Zaib** | Passionate Full Stack Developer | [GitHub](https://github.com/dilzaibofficial)
-
-```
-
----
