@@ -9,7 +9,7 @@
 ## 📸 Project Preview
 
 Below is a short preview video demonstrating the app:
-
+![Project Preview](Preview/CampusConnectPlus.gif)
 🎥 **[Watch the Demo](Preview/CampusConnectPlus.gif)**  
 > *(You can download and open the `.mp4` from the Preview folder for a quick look at the app.)*
 
