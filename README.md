@@ -1,8 +1,3 @@
-Here's your customized `README.md` file for the **CampusConnect+** project on GitHub, styled exactly like your example:
-
----
-
-```markdown
 # 📱 CampusConnect+ – Campus Events Made Simple
 
 <p align="center">
